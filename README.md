@@ -1,16 +1,50 @@
-## Hi there 👋
+¡Hola y bienvenido a mi perfil de GitHub! 🚀 Mi nombre es Maria Paz Rivas y me apasiona la tecnología y el desarrollo web, siempre con ganas de aprender y mejorar. Disfruto enfrentando desafíos, creciendo profesionalmente y colaborando en equipo para lograr grandes objetivos. Me motiva crear soluciones innovadoras donde el diseño y la experiencia del usuario sean protagonistas. ✨💡
 
-<!--
-**Maria-Paz-Rivas/Maria-Paz-Rivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estas son las tecnologías que utilice:
 
-Here are some ideas to get you started:
+  🟧  HTML5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔵  CSS
+
+  🟨  JAVASCRIPT
+
+  🔷 TYPESCRIPT
+
+  ⚛️  REACT 
+
+  🖤  NEXT JS
+  
+  🌊 TAILWIND
+
+  🔵 BOOSTRAP
+
+
+🚀 Base de Datos:
+
+  🍃 MONGODB
+
+  🐘 POSTGRESS SQL
+
+
+🛠️ Herramientas y Plataformas que utilice:
+
+  🔗 GIT
+
+  🐙 GitHub
+
+  ☁️ Cloudinary 
+
+  ⚡ Vercel 
+
+  📌 Trello
+
+  
+ No dudes en conectarte conmigo 
+
+📩 Email: pazroscianorivas@gmail.com
+💼 LinkedIn: www.linkedin.com/in/maria-paz-rivas
+
+ ✨ ¡Gracias por tomarte tu tiempo y pasar por mi perfil! Te invito a explorar mis proyectos y, si tienes alguna pregunta o idea para colaborar, no dudes en contactarme. 🐙
+
+
+
