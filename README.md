@@ -1,4 +1,4 @@
-¡Hola y bienvenido a mi perfil de GitHub! 🚀 Mi nombre es Maria Paz Rivas y me apasiona la tecnología y el desarrollo web, siempre con ganas de aprender y mejorar. Disfruto enfrentando desafíos, creciendo profesionalmente y colaborando en equipo para lograr grandes objetivos. Me motiva crear soluciones innovadoras donde el diseño y la experiencia del usuario sean protagonistas. ✨💡
+¡Hola y bienvenido/a a mi perfil de GitHub! 🚀 Mi nombre es Maria Paz Rivas y me apasiona la tecnología y el desarrollo web, siempre me encuentro con ganas de aprender y mejorar. Disfruto enfrentando desafíos, creciendo profesionalmente y colaborando en equipo para lograr grandes objetivos. Me motiva crear soluciones innovadoras donde el diseño y la experiencia del usuario sean protagonistas. ✨💡
 
 🚀 Estas son las tecnologías que utilice:
 
