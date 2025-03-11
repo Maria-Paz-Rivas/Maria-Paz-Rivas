@@ -42,7 +42,9 @@
  No dudes en conectarte conmigo 
 
 📩 Email: pazroscianorivas@gmail.com
+📱  Celular: +54 9 3487 698385
 💼 LinkedIn: www.linkedin.com/in/maria-paz-rivas
+
 
  ✨ ¡Gracias por tomarte tu tiempo y pasar por mi perfil! Te invito a explorar mis proyectos y, si tienes alguna pregunta o idea para colaborar, no dudes en contactarme. 🐙
 
